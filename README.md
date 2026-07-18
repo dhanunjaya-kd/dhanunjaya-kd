@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanunjaya-kd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanunjaya-kd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanunjaya-kd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=dhanunjaya-kd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanunjaya-kd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanunjaya-kd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -67,31 +67,45 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanunjaya-kd&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanunjaya-kd&theme=tokyonight&no-frame=true&column=7&margin-w=10&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanunjaya-kd&repo=Pharma-Sales-Prescription-Analytics&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/dhanunjaya-kd/ecommerce-sql-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanunjaya-kd&repo=ecommerce-sql-analysis&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanunjaya-kd&repo=ecommerce-powerbi-dashboard&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics">💊 Pharma Sales & Prescription Analytics</a></h3>
+      <p>End-to-End Pharma Sales & Prescription Analytics Dashboard using SQL, Python, SQLite and Power BI.</p>
+      <p><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/dhanunjaya-kd/ecommerce-sql-analysis">🛒 E-Commerce SQL Analysis</a></h3>
+      <p>End-to-end E-Commerce SQL Analysis project using PostgreSQL to analyze sales, customer behavior, payment trends, and product performance.</p>
+      <p><img src="https://img.shields.io/badge/PostgreSQL-SQL-blue?style=flat&logo=postgresql" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard">📈 E-Commerce Power BI Dashboard</a></h3>
+      <p>End-to-end E-Commerce Sales Analytics Dashboard built using Power BI, PostgreSQL, SQL, and DAX for business intelligence and decision-making.</p>
+      <p><img src="https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat&logo=powerbi" /></p>
+    </td>
+    <td width="50%">
+      <h3>🚀 More Projects Coming Soon...</h3>
+      <p>Stay tuned for more data analytics and visualization projects!</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanunjaya-kd&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanunjaya-kd&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="Contribution Graph" />
 </p>
 
 ---
@@ -99,10 +113,10 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhanunjaya-kd" target="blank">
+  <a href="https://www.linkedin.com/in/dhanunjaya-kd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
