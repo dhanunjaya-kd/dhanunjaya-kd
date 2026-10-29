@@ -1,124 +1,136 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+K+Dhanunjaya;Data+Analyst+%7C+BI+Developer;Power+BI+%7C+SQL+%7C+Python+%7C+DAX;Turning+Data+into+Decisions!" alt="Typing SVG" />
-  </a>
-</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:155E75,100:22D3EE&amp;height=190&amp;section=header&amp;text=K%20DHANUNJAYA&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=DATA%20ANALYTICS%20%20%7C%20%20BUSINESS%20INTELLIGENCE&amp;descSize=16&amp;descAlignY=60" alt="K Dhanunjaya — Data Analytics and Business Intelligence" />
+</p>
+
+<h1 align="center">Hi, I'm Dhanunjaya 👋</h1>
+<p align="center"><strong>Turning business questions into clear, interactive dashboards.</strong></p>
+<p align="center">Aspiring Data Analyst · Power BI & SQL · Curious about Market Data</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanunjaya-kd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dhanunjaya-kd?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/dhanunjaya-kd?label=Stars&style=social" alt="GitHub Stars" />
+  <a href="https://www.linkedin.com/in/dhanunjayak/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:dhanunjayak14@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-155E75?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Dhanunjaya" /></a>
+  <a href="https://github.com/dhanunjaya-kd?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_Projects-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on **Data Analytics & Business Intelligence Projects**
-- 🌱 I'm currently learning **Advanced DAX, Python for Data Analysis & Machine Learning**
-- 💬 Ask me about **Power BI, SQL, Data Visualization, DAX Measures, Time Intelligence**
-- 📫 How to reach me: **dhanunjayak14@gmail.com**
-- ⚡ Fun fact: **I love turning raw data into actionable dashboards!**
-
----
-
-## 🛠️ Tech Stack
-
-### 📊 Data Analytics & BI
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Querying
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
-
-### 💻 Programming & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanunjaya-kd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="#-about-me">About</a> ·
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-technical-toolkit">Toolkit</a> ·
+  <a href="#-market-data-interests">Market Data</a>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About me
+
+I'm an aspiring **Data Analyst based in India**, building projects that connect **SQL analysis, data modeling, and Power BI dashboards**. I enjoy exploring the questions behind the numbers—from sales performance to customer behavior.
+
+- 📊 **Building:** e-commerce and pharmaceutical analytics projects.
+- 🧩 **Working with:** SQL queries, DAX measures, data relationships, and business KPIs.
+- 🌱 **Learning:** advanced DAX and Python for data analysis.
+- 📈 **Interested in:** financial market data, time-series analysis, and analytical dashboards.
+
+## 🚀 Featured projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics">💊 Pharma Sales & Prescription Analytics</a></h3>
-      <p>End-to-End Pharma Sales & Prescription Analytics Dashboard using SQL, Python, SQLite and Power BI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter" />
-        <img src="https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat&logo=powerbi" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/dhanunjaya-kd/ecommerce-sql-analysis">🛒 E-Commerce SQL Analysis</a></h3>
-      <p>End-to-end E-Commerce SQL Analysis project using PostgreSQL to analyze sales, customer behavior, payment trends, and product performance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-SQL-blue?style=flat&logo=postgresql" />
-        <img src="https://img.shields.io/badge/Python-Analysis-green?style=flat&logo=python" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard">📈 E-Commerce Power BI Dashboard</a></h3>
-      <p>End-to-end E-Commerce Sales Analytics Dashboard built using Power BI, PostgreSQL, SQL, and DAX for business intelligence and decision-making.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat&logo=powerbi" />
-        <img src="https://img.shields.io/badge/DAX-Measures-orange?style=flat" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🚀 More Projects Coming Soon...</h3>
-      <p>Stay tuned for more data analytics and visualization projects!</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛒 E-Commerce Analytics</h3>
+<p><strong>From transactions to a business overview.</strong></p>
+<a href="https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard"><img width="100%" src="https://raw.githubusercontent.com/dhanunjaya-kd/ecommerce-powerbi-dashboard/main/Dashboard_Screenshots/Executive_Summary.png" alt="E-commerce Power BI dashboard executive summary" /></a>
+<p>Executive summary, customer analytics, and sales performance dashboards covering revenue trends, payments, and product categories.</p>
+<p><code>Power BI</code> <code>PostgreSQL</code> <code>DAX</code></p>
+<p><a href="https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard"><strong>Explore dashboard →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>💊 Pharma Sales Analytics</h3>
+<p><strong>A connected view of sales and prescriptions.</strong></p>
+<a href="https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics"><img width="100%" src="https://raw.githubusercontent.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics/main/05_Screenshots/DASHBOARD.png" alt="Pharma sales and prescription analytics dashboard" /></a>
+<p>Explore products, territories, doctor specializations, and sales representatives through KPI reporting and interactive date filters.</p>
+<p><code>Power BI</code> <code>SQLite</code> <code>DAX</code></p>
+<p><a href="https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics"><strong>Explore analysis →</strong></a></p>
+</td>
+</tr>
 </table>
 
----
+### 🗃️ E-Commerce SQL Analysis
 
-## 📈 Contribution Graph
+**Business questions, answered with SQL.** Analysis of the Brazilian Olist dataset covering customer distribution, payment methods, product performance, monthly sales, and freight costs.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanunjaya-kd&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+`PostgreSQL` `Joins` `CTEs` `Window Functions` `Aggregations`
+
+[**Explore SQL project →**](https://github.com/dhanunjaya-kd/ecommerce-sql-analysis)
+
+## 🛠️ Technical toolkit
+
+**Business intelligence & reporting**
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-155E75?style=for-the-badge" alt="DAX" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
+  <img src="https://img.shields.io/badge/Data_Modeling-0F172A?style=for-the-badge" alt="Data modeling" />
 </p>
 
----
+**Databases & workflow**
 
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhanunjaya-kd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dhanunjayak14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </p>
 
----
+**Currently learning**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Learning Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Learning pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Learning Jupyter" />
+  <img src="https://img.shields.io/badge/Advanced_DAX-155E75?style=for-the-badge" alt="Learning advanced DAX" />
 </p>
+
+## 📈 Market data interests
+
+I'm also interested in applying data analytics to **financial markets**—exploring how price, volume, and time-series data can be organized and visualized to better understand market behavior.
+
+<p>
+  <img src="https://img.shields.io/badge/Interest-Market_Data-155E75?style=flat-square" alt="Interest: market data" />
+  <img src="https://img.shields.io/badge/Interest-Time_Series-155E75?style=flat-square" alt="Interest: time series" />
+  <img src="https://img.shields.io/badge/Interest-Data_Visualization-155E75?style=flat-square" alt="Interest: data visualization" />
+</p>
+
+## 🤝 Let's connect
+
+Happy to connect with people working on **data analysis, business intelligence, and market data visualization**.
+
+**[LinkedIn](https://www.linkedin.com/in/dhanunjayak/)** · **[Email](mailto:dhanunjayak14@gmail.com)** · **[GitHub](https://github.com/dhanunjaya-kd)**
+
+<p align="center"><sub>Ask a clear question. Explore the data. Make the insight understandable.</sub></p>
+
+<!--
+OWNER NOTES — Not displayed on the rendered profile.
+
+APPLY: Replace README.md in dhanunjaya-kd/dhanunjaya-kd, preview, then commit.
+This file does not automatically change your GitHub bio, pins, or other repositories.
+
+SUGGESTED BIO:
+Aspiring Data Analyst | Power BI, SQL & DAX | E-commerce & pharma analytics | Interested in market data and time-series analysis.
+
+PROFILE IMPROVEMENTS:
+1. Pin your three original analytics projects ahead of course forks.
+2. Market data is deliberately a smaller interest section, keeping BI as the main focus.
+   Add a market project card only when a public, documented project is ready to share.
+3. The two dashboard images use verified paths in your existing public repositories.
+4. Banner and badges use external image services. Text and project links remain
+   useful if those services are unavailable. Check GitHub Preview before committing.
+5. Reconcile e-commerce metrics: SQL README has revenue 16.01M vs 13.59M and
+   AOV 160.99 vs 137.75; Power BI README lists AOV 136.68. Define currency,
+   scope, filters, and denominators before using these as headline results.
+6. For each project, document the dataset source, setup, metric definitions,
+   findings, and limitations. Include screenshots and reproducible analysis.
+7. Add only tools, credentials, and outcomes you can demonstrate. No employment,
+   profitability, trading-performance, or professional trading claims are made here.
+8. LinkedIn destination matches the URL you supplied; LinkedIn page content
+   could not be inspected. No private repository links are included.
+-->
