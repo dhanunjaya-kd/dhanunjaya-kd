@@ -1,120 +1,124 @@
-<h1 align="center">Hi, I'm K Dhanunjaya 👋</h1>
-
-<p align="center"><strong>Data Analytics & Business Intelligence</strong><br>Power BI · SQL · DAX · Python</p>
-
-<p align="center">Exploring business questions through SQL analysis, data models, and interactive dashboards.</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+K+Dhanunjaya;Data+Analyst+%7C+BI+Developer;Power+BI+%7C+SQL+%7C+Python+%7C+DAX;Turning+Data+into+Decisions!" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhanunjayak/">LinkedIn</a> ·
-  <a href="mailto:dhanunjayak14@gmail.com">Email</a> ·
-  <a href="https://github.com/dhanunjaya-kd?tab=repositories">Explore my repositories</a>
+  <img src="https://komarev.com/ghpvc/?username=dhanunjaya-kd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dhanunjaya-kd?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/dhanunjaya-kd?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 ---
 
-## About me
+## 🚀 About Me
 
-I'm an aspiring Data Analyst based in India, building a portfolio in **data analytics and business intelligence**. My projects explore e-commerce and pharmaceutical data through SQL analysis, KPI calculations, and Power BI dashboards.
+- 🔭 I'm currently working on **Data Analytics & Business Intelligence Projects**
+- 🌱 I'm currently learning **Advanced DAX, Python for Data Analysis & Machine Learning**
+- 💬 Ask me about **Power BI, SQL, Data Visualization, DAX Measures, Time Intelligence**
+- 📫 How to reach me: **dhanunjayak14@gmail.com**
+- ⚡ Fun fact: **I love turning raw data into actionable dashboards!**
 
-- **Project focus:** sales trends, customer behavior, product performance, and territory analysis.
-- **Core skills:** SQL querying, data modeling, DAX measures, and dashboard development.
-- **Currently learning:** advanced DAX and Python for data analysis.
+---
 
-## Featured projects
+## 🛠️ Tech Stack
 
-### 01 · E-Commerce Analytics Dashboard
+### 📊 Data Analytics & BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-**How are sales, customers, and product categories performing?**
+### 🗄️ Databases & Querying
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-A Power BI project with executive summary, customer analytics, and sales performance pages. It brings revenue trends, customer geography, payment analysis, and freight costs into one reporting experience.
+### 💻 Programming & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-**Tools:** Power BI · PostgreSQL · SQL · DAX  
-**Skills demonstrated:** KPI reporting · interactive dashboards · business data visualization
+---
 
-[Explore the project →](https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard)
+## 📊 GitHub Activity
 
-### 02 · Pharma Sales & Prescription Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanunjaya-kd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-**Which products, territories, and sales representatives drive performance?**
+---
 
-An analytics project connecting sales, products, doctors, medical representatives, and prescription data. The dashboard tracks revenue, units sold, active doctors, and prescriptions, with a date slicer for exploring performance over time.
+## 📌 Featured Projects
 
-**Tools:** SQL · SQLite · Power BI · DAX · Excel  
-**Skills demonstrated:** relational data modeling · KPI design · territory and product analysis
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics">💊 Pharma Sales & Prescription Analytics</a></h3>
+      <p>End-to-End Pharma Sales & Prescription Analytics Dashboard using SQL, Python, SQLite and Power BI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter" />
+        <img src="https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat&logo=powerbi" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/dhanunjaya-kd/ecommerce-sql-analysis">🛒 E-Commerce SQL Analysis</a></h3>
+      <p>End-to-end E-Commerce SQL Analysis project using PostgreSQL to analyze sales, customer behavior, payment trends, and product performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-SQL-blue?style=flat&logo=postgresql" />
+        <img src="https://img.shields.io/badge/Python-Analysis-green?style=flat&logo=python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard">📈 E-Commerce Power BI Dashboard</a></h3>
+      <p>End-to-end E-Commerce Sales Analytics Dashboard built using Power BI, PostgreSQL, SQL, and DAX for business intelligence and decision-making.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat&logo=powerbi" />
+        <img src="https://img.shields.io/badge/DAX-Measures-orange?style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🚀 More Projects Coming Soon...</h3>
+      <p>Stay tuned for more data analytics and visualization projects!</p>
+    </td>
+  </tr>
+</table>
 
-[Explore the project →](https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics)
+---
 
-### 03 · E-Commerce SQL Analysis
+## 📈 Contribution Graph
 
-**What do orders and payments reveal about customer and product performance?**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanunjaya-kd&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
-SQL analysis of the Brazilian Olist e-commerce dataset, exploring monthly sales, product categories, customer distribution, payment methods, and freight costs.
+---
 
-**Tools:** PostgreSQL · SQL  
-**Skills demonstrated:** joins · aggregations · CTEs · window functions · business KPI calculations
+## 🔗 Connect With Me
 
-[Explore the project →](https://github.com/dhanunjaya-kd/ecommerce-sql-analysis)
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhanunjaya-kd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhanunjayak14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## Technical toolkit
+---
 
-| Area | Tools and focus |
-| --- | --- |
-| Business intelligence | Power BI, DAX, KPI dashboards, data visualization |
-| Data analysis | SQL, PostgreSQL, SQLite, Excel |
-| Data modeling | Table relationships, analytical models, measure definitions |
-| Development workflow | Git, GitHub, project documentation |
-| Learning focus | Python, pandas, Jupyter, advanced DAX |
-
-## Let's connect
-
-Interested in discussing data analysis, dashboards, or BI projects? Reach me on [LinkedIn](https://www.linkedin.com/in/dhanunjayak/) or at [dhanunjayak14@gmail.com](mailto:dhanunjayak14@gmail.com).
-
-<!--
-OWNER NOTES — These notes do not appear in the rendered GitHub profile.
-
-HOW TO APPLY
-1. Open https://github.com/dhanunjaya-kd/dhanunjaya-kd/blob/main/README.md
-2. Edit the file, replace its contents with this entire file, and check Preview.
-3. Commit the change. This file is intended for the existing public profile repository.
-4. Profile bio, pinned repositories, and repository descriptions require separate updates;
-   changing this README does not change them.
-
-SUGGESTED GITHUB BIO
-Aspiring Data Analyst | Power BI, SQL & DAX | E-commerce and pharma analytics | Building dashboards that explain business performance.
-
-SUGGESTED LINKEDIN HEADLINE
-Aspiring Data Analyst | Power BI, SQL, DAX & Excel | E-Commerce & Pharma Analytics Projects
-Use only if it accurately reflects your current career goal. LinkedIn content was not accessible during this review.
-
-PRIORITY OPTIMIZATION IDEAS
-1. Pin your own three featured analytics repositories first. The supplied screenshots
-   currently show a course fork as the only pinned repository.
-2. Keep a clear, static headline. Removed typing animation, visitor/star counters,
-   streak cards, the broken contribution image, and decorative footer to keep
-   attention on your work and reduce external image dependencies.
-3. Correct the old README LinkedIn URL to https://www.linkedin.com/in/dhanunjayak/.
-4. Give each project README: business question, dataset source and license, setup
-   steps, schema, metric definitions, screenshots, findings, and limitations.
-5. Reconcile e-commerce KPIs before prominently quoting numbers. The SQL README
-   lists both 16.01M and 13.59M revenue, and AOV values of 160.99 and 137.75;
-   the Power BI README lists AOV 136.68. Explain scope, filters, numerator,
-   denominator, and currency. Do not imply these are realized business gains.
-6. Add one strong dashboard screenshot near the top of each project README.
-   Include a short explanation of what a reviewer should notice.
-7. Suggested topics, where accurate: data-analysis, sql, powerbi, dax,
-   postgresql, business-intelligence, data-visualization.
-8. IRCTC analytics can become a fourth featured project after its README,
-   business questions, reproducible steps, and results are ready. A root
-   README.md could not be fetched during this review; no claims were invented.
-9. Add further tools, certifications, employment, or quantified outcomes only
-   when you can substantiate them. The toolkit emphasizes documented projects.
-10. Suggested next portfolio idea: a customer-retention/cohort analysis project
-    with SQL, a documented dataset, and a dashboard. Label it as a new project
-    only after implementation; do not add a coming-soon card to this profile.
-
-SCOPE
-This replacement README features only analytics projects in e-commerce and pharma.
-It does not alter other repositories, their visibility, or GitHub's activity feed.
-Reviewed against the current profile README, three project READMEs, and the six
-supplied screenshots on 29 October 2026. No employment or certification claims added.
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
