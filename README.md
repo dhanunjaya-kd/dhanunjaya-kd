@@ -54,7 +54,26 @@ Explore: revenue trends · payment mix · product categories · customer geograp
 
 View project ↗ · Customer dashboard · Sales dashboard
 
-<p><sub>02 / DOMAIN ANALYTICS</sub></p>
+<p><sub>02 / RAILWAY OPERATIONS</sub></p>
+<h3>🚆 IRCTC Railway Analytics</h3>
+
+How much seat capacity gets used, and what happens to passengers on the waitlist? I used PostgreSQL and Python to analyse synthetic booking and train data, then built Power BI and Tableau dashboards using the same KPI definitions.
+
+The sample covers **768 simulated runs drawn from 19,708 scheduled runs**. Across all travel classes, weighted seat occupancy was **73.5%**. Of **36,876** passengers initially waitlisted, **7,087 (19.2%)** finished confirmed or RAC. These figures describe the simulation.
+
+**Power BI · Operating overview**
+
+[![Power BI overview of bookings, passenger demand, occupancy and cancellations](https://raw.githubusercontent.com/dhanunjaya-kd/irctc-analytics/main/power_bi/screenshots/01_overview.png)](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/power_bi/screenshots/README.md)
+
+**Tableau · Demand and capacity**
+
+[![Tableau dashboard comparing seat occupancy by season and travel class](https://raw.githubusercontent.com/dhanunjaya-kd/irctc-analytics/main/tableau/screenshots/02_demand_capacity.png)](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/tableau/screenshots/README.md)
+
+The Tableau validation dashboard reconciles **31/31 KPIs** and **11/11 table row counts** against reference values.
+
+[Full project](https://github.com/dhanunjaya-kd/irctc-analytics) · [Power BI gallery](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/power_bi/screenshots/README.md) · [Power BI setup](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/power_bi/README.md) · [Tableau gallery](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/tableau/screenshots/README.md) · [Tableau workbook (.twbx)](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/tableau/portfolio_dashboard/IRCTC_Portfolio_KPI_View.twbx)
+
+<p><sub>03 / DOMAIN ANALYTICS</sub></p>
 <h3>💊 Pharma Sales & Prescription Analytics</h3>
 <p><strong>Connecting products, territories, doctors, and sales teams.</strong><br>A dashboard for exploring pharmaceutical sales and prescription performance.</p>
 
@@ -72,7 +91,7 @@ Explore: revenue · units sold · active doctors · prescriptions · territory p
 
 View project ↗
 
-<p><sub>03 / SQL & BUSINESS QUESTIONS</sub></p>
+<p><sub>04 / SQL & BUSINESS QUESTIONS</sub></p>
 <h3>🗃️ E-Commerce SQL Analysis</h3>
 
 Exploring the Brazilian Olist dataset with PostgreSQL—from monthly sales and customer distribution to payment methods and freight costs.
