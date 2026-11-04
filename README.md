@@ -96,6 +96,11 @@ The Tableau validation dashboard reconciles **31/31 KPIs** and **11/11 table row
 <a href="mailto:dhanunjayak14@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-155E75?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
 </p>
 
+<h3 align="center">GitHub contribution streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dhanunjaya-kd&amp;theme=github-dark-blue&amp;hide_border=true" alt="Dhanunjaya’s current and longest GitHub contribution streaks" />
+</p>
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:164E63,100:06B6D4&amp;height=90&amp;section=footer" alt="" />
 </p>
