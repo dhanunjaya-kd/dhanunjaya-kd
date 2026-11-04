@@ -7,7 +7,7 @@
 <h3 align="center">Business questions. Clear analysis. Better dashboards.</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1400&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=SQL+%E2%86%92+Data+Models+%E2%86%92+Power+BI;Exploring+E-Commerce+%26+Pharma+Analytics;Curious+about+Financial+Market+Data" alt="SQL to data models to Power BI; e-commerce, pharma, and market data interests" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1400&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=SQL+%E2%86%92+Data+Models+%E2%86%92+Power+BI;Railway+Demand+%26+Capacity;Power+BI+%26+Tableau" alt="SQL, Power BI and Tableau for railway analytics" />
 </p>
 
 <p align="center">
@@ -35,26 +35,8 @@ Market data · Time-series visualization
 </table>
 
 
-◈ Selected work
-<p><sub>01 / BUSINESS INTELLIGENCE</sub></p>
-<h3>🛒 E-Commerce Analytics Dashboard</h3>
-<p><strong>A business overview—from revenue trends to customer behavior.</strong><br>Executive summary, customer analytics, and sales performance in one Power BI project.</p>
-
-<a href="https://github.com/dhanunjaya-kd/ecommerce-powerbi-dashboard">
-<img width="100%" src="https://raw.githubusercontent.com/dhanunjaya-kd/ecommerce-powerbi-dashboard/main/Dashboard_Screenshots/Executive_Summary.png" alt="E-commerce analytics dashboard showing executive summary KPIs and visualizations" />
-</a>
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-21262D?style=flat-square&amp;labelColor=21262D" alt="Power BI" />
-<img src="https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/DAX-21262D?style=flat-square" alt="DAX" />
-</p>
-
-Explore: revenue trends · payment mix · product categories · customer geography
-
-View project ↗ · Customer dashboard · Sales dashboard
-
-<p><sub>02 / RAILWAY OPERATIONS</sub></p>
+◈ Featured project
+<p><sub>RAILWAY OPERATIONS</sub></p>
 <h3>🚆 IRCTC Railway Analytics</h3>
 
 How much seat capacity gets used, and what happens to passengers on the waitlist? I used PostgreSQL and Python to analyse synthetic booking and train data, then built Power BI and Tableau dashboards using the same KPI definitions.
@@ -72,38 +54,6 @@ The sample covers **768 simulated runs drawn from 19,708 scheduled runs**. Acros
 The Tableau validation dashboard reconciles **31/31 KPIs** and **11/11 table row counts** against reference values.
 
 [Full project](https://github.com/dhanunjaya-kd/irctc-analytics) · [Power BI gallery](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/power_bi/screenshots/README.md) · [Power BI setup](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/power_bi/README.md) · [Tableau gallery](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/tableau/screenshots/README.md) · [Tableau workbook (.twbx)](https://github.com/dhanunjaya-kd/irctc-analytics/blob/main/tableau/portfolio_dashboard/IRCTC_Portfolio_KPI_View.twbx)
-
-<p><sub>03 / DOMAIN ANALYTICS</sub></p>
-<h3>💊 Pharma Sales & Prescription Analytics</h3>
-<p><strong>Connecting products, territories, doctors, and sales teams.</strong><br>A dashboard for exploring pharmaceutical sales and prescription performance.</p>
-
-<a href="https://github.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics">
-<img width="100%" src="https://raw.githubusercontent.com/dhanunjaya-kd/Pharma-Sales-Prescription-Analytics/main/05_Screenshots/DASHBOARD.png" alt="Pharma sales and prescription dashboard showing sales, territory, doctor, and representative analysis" />
-</a>
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-21262D?style=flat-square" alt="Power BI" />
-<img src="https://img.shields.io/badge/SQLite-21262D?style=flat-square" alt="SQLite" />
-<img src="https://img.shields.io/badge/DAX-21262D?style=flat-square" alt="DAX" />
-</p>
-
-Explore: revenue · units sold · active doctors · prescriptions · territory performance
-
-View project ↗
-
-<p><sub>04 / SQL & BUSINESS QUESTIONS</sub></p>
-<h3>🗃️ E-Commerce SQL Analysis</h3>
-
-Exploring the Brazilian Olist dataset with PostgreSQL—from monthly sales and customer distribution to payment methods and freight costs.
-<table>
-<tr>
-<td width="50%" valign="top"><strong>The questions</strong><br><br>Which categories drive revenue?<br>How do sales change over time?<br>Where are customers concentrated?</td>
-<td width="50%" valign="top"><strong>The techniques</strong><br><br>Joins & aggregations<br>Common table expressions<br>Window functions & KPI calculations</td>
-</tr>
-</table>
-
-
-Explore the SQL analysis ↗
 
 ◈ My toolkit
 <p><strong>ANALYZE & MODEL</strong></p>
@@ -138,20 +88,6 @@ Explore the SQL analysis ↗
 </details>
 
 
-◈ Beyond business dashboards
-<table>
-<tr>
-<td>
-<p><sub>PERSONAL INTEREST / FINANCIAL MARKET ANALYTICS</sub></p>
-<h3>📈 Markets through a data lens.</h3>
-<p>I'm interested in how <strong>price, volume, and time</strong> tell a story—and how analytical dashboards can make that story easier to explore.</p>
-<p><code>Price & Volume</code> &nbsp; <code>Time Series</code> &nbsp; <code>Market Visualization</code></p>
-<p><em>An area I want to explore further with SQL, Python, and visual analytics.</em></p>
-</td>
-</tr>
-</table>
-
-
 <p align="center"><strong>Have a business question worth exploring?</strong></p>
 <h3 align="center">Let's talk data.</h3>
 <p align="center">Analytics · Business Intelligence · Market Data Visualization</p>
@@ -164,16 +100,4 @@ Explore the SQL analysis ↗
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:164E63,100:06B6D4&amp;height=90&amp;section=footer" alt="" />
 </p>
 
-<!--
-OWNER CHECKLIST (hidden on the rendered profile)
-- Replace the profile repository README.md with this entire file; check GitHub Preview.
-- Pin the three original analytics projects featured here.
-- Suggested bio: Aspiring Data Analyst | Power BI, SQL & DAX | Business dashboards | Exploring market data analytics.
-- Header, typing animation, and badges require external image services. Dashboard
-  images use verified public repository paths. Meaningful text remains if images fail.
-- Market content describes interests, not completed work or trading performance.
-  No private project names or links are included.
-- Before highlighting numeric results, reconcile revenue and AOV discrepancies
-  between the e-commerce SQL and Power BI READMEs; document scope and currency.
-- Profile bio and pins require separate changes. This file cannot change them.
--->
+
