@@ -106,7 +106,7 @@ The Tableau validation dashboard reconciles **31/31 KPIs** and **11/11 table row
 
 <h3 align="center">GitHub contribution streak</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhanunjaya-kd&amp;theme=github-dark-blue&amp;hide_border=true" alt="Dhanunjaya’s current and longest GitHub contribution streaks" />
+  <img src="https://streak-stats.demolab.com/?user=dhanunjaya-kd&amp;theme=transparent&amp;hide_border=true&amp;ring=22D3EE&amp;fire=22D3EE&amp;currStreakNum=22D3EE&amp;sideNums=60A5FA&amp;currStreakLabel=22D3EE&amp;dates=8B949E&amp;sideLabels=8B949E&amp;stroke=30363D&amp;card_width=550&amp;v=2" alt="Dhanunjaya’s current and longest GitHub contribution streaks" />
 </p>
 
 <p align="center">
